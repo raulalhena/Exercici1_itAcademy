@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [com.android.support:design:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c051a9ba51d4582dfacfbe5bc470e7f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/de31d013dcc280b4a03f8fed133be21e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f2227e84e730780b305d2de3a8a51d4c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4d1c07627a170000fb995a086b5d0ccd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b3aca980f8239f5c467a8cfefc1d2b7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/22ca59877ff0ac6105484bdb8cb1564c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/cf06f604c7c97a6cb930bc7a649fd832/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/86d0933413fe10d4da7fb10051bacc5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dfaf01d87b72ee7c49286cd23523fee4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fa17e3bcf3e7565722211db578ececf8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b54dd243bbc0a5af5fc9e5ddec469318/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/fa69afaf7a96d38f35d7d9995aa4906f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/451a2493991888f9004fc3fa26465d1c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0661d3458d16bf7c94902c88d555bde4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0ef0516901112bcc15c308e0825ee4d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a8f00c55a22ab0d4beadcce0c719ca46/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e3a61f3a1d09e9510efd6e85763bf34/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:4:5-50
+		INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:6:5-8:35
+	android:required
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:7:9-49
+uses-feature#android.hardware.camera2
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:11:9-48
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:15:22-66
+uses-permission#com.android.permission.SET_ALARM
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:16:22-69
+application
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:18:5-57:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f2227e84e730780b305d2de3a8a51d4c/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f2227e84e730780b305d2de3a8a51d4c/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.polimatartstudio.raul.exercici1.MainActivity
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:25:9-55:20
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:25:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:29:27-74
+intent-filter#action:name:android.media.action.IMAGE_CAPTURE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:32:25-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:34:27-73
+intent-filter#action:name:android.intent.action.OPEN_DOCUMENT+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:image/*
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:36:13-43:29
+action#android.intent.action.OPEN_DOCUMENT
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:37:25-75
+data
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:39:17-52
+	android:mimeType
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:39:23-49
+category#android.intent.category.OPENABLE
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:42:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:44:13-49:29
+action#android.intent.action.VIEW
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:48:17-78
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:48:27-75
+intent-filter#action:name:android.intent.action.SET_ALARM+category:name:android.intent.category.DEFAULT
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:50:13-54:29
+action#android.intent.action.SET_ALARM
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:51:17-74
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:51:25-71
+activity#com.polimatartstudio.raul.exercici1.VerTuTexto
+ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:56:9-57
+	android:name
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml:56:19-45
+uses-sdk
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c051a9ba51d4582dfacfbe5bc470e7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c051a9ba51d4582dfacfbe5bc470e7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/de31d013dcc280b4a03f8fed133be21e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/de31d013dcc280b4a03f8fed133be21e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f2227e84e730780b305d2de3a8a51d4c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/f2227e84e730780b305d2de3a8a51d4c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4d1c07627a170000fb995a086b5d0ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4d1c07627a170000fb995a086b5d0ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b3aca980f8239f5c467a8cfefc1d2b7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b3aca980f8239f5c467a8cfefc1d2b7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/22ca59877ff0ac6105484bdb8cb1564c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/22ca59877ff0ac6105484bdb8cb1564c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/cf06f604c7c97a6cb930bc7a649fd832/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/cf06f604c7c97a6cb930bc7a649fd832/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/86d0933413fe10d4da7fb10051bacc5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/86d0933413fe10d4da7fb10051bacc5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dfaf01d87b72ee7c49286cd23523fee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dfaf01d87b72ee7c49286cd23523fee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fa17e3bcf3e7565722211db578ececf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fa17e3bcf3e7565722211db578ececf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b54dd243bbc0a5af5fc9e5ddec469318/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b54dd243bbc0a5af5fc9e5ddec469318/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/fa69afaf7a96d38f35d7d9995aa4906f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/fa69afaf7a96d38f35d7d9995aa4906f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/451a2493991888f9004fc3fa26465d1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/raul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/451a2493991888f9004fc3fa26465d1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0661d3458d16bf7c94902c88d555bde4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0661d3458d16bf7c94902c88d555bde4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0ef0516901112bcc15c308e0825ee4d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0ef0516901112bcc15c308e0825ee4d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a8f00c55a22ab0d4beadcce0c719ca46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a8f00c55a22ab0d4beadcce0c719ca46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e3a61f3a1d09e9510efd6e85763bf34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/raul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e3a61f3a1d09e9510efd6e85763bf34/AndroidManifest.xml:20:5-44
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/raul/Desktop/ANDROID COURSE/Exercici1/app/src/main/AndroidManifest.xml
